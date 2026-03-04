@@ -56,6 +56,6 @@ Dives into computer vision and deep learning for automated remote sensing image 
 ## 🏆 Selected Honors & Awards
 * **National Third Prize (x2)**, Esri-Cup Chinese College Students GIS Software Development Contest 
 * **Outstanding Undergraduate Thesis Award**，Shandong Jiaotong University
-* **Distinguished Camp Participant** (Top 11%), Capital Normal University Summer Academic Camp
+* **Distinguished Camp Participant** (Top 11%), Capital Normal University, State Key Laboratory Cultivation Base of Urban Environmental Processes and Digital Simulation, Summer Academic Camp
 
 ---
