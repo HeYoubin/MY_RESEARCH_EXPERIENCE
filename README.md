@@ -35,9 +35,10 @@ This module includes multiple research projects, focusing on using multi-source 
 Explores the intersection of multi-source spatial data (POI, OSM, nighttime light) to guide urban planning and policy.
 * **Key Topics:** AHP-based urban evaluation, Multi-Scale Driver Models (Geographical Detector & GWR), Spatial Pattern Analysis.
 * **Highlights:** <br>
-  1. 数据量化
-  2. 数据量化
-  3. 数据量化
+* **[Project 1: Urban Evaluation] Constructed** an AHP-based ecological and comprehensive development evaluation model for Jinan (2017-2020), quantifying the expansion of moderate-to-good ecological zones (up to 6141.7 $km^2$ in 2020) and identifying top-tier development areas (index 0.60-0.75) to provide objective urban policy guidance.
+  * **[Project 2: B&B Spatial Drivers] Integrated** highly heterogeneous datasets (POI, OSM, NPP-VIIRS) using a Comprehensive Analysis Geographically Weighted Regression model (CA-GWR, $R^2=0.833$) to accurately quantify the driving factors of B&B distributions in Liangshan.
+  * **[Project 2: Spatial Pattern] Uncovered** a highly clustered (ANN=0.1419, p<0.01) and NE-SW oriented "one main, one secondary, multi-point" spatial pattern for local B&Bs, offering direct geospatial references for regional tourism planning.
+  * **[Honors & Awards] Achieved** significant academic and competitive recognition, including 1 first-author publication, National Third Prize (×2) in the Esri-Cup GIS Software Development Contest, First Prize (×2) in the University Remote Sensing Competition, and the Outstanding Undergraduate Thesis Award.
 * **Publications:** <br>
   - **He Y**, Yang Y. Research on the spatial distribution and influencing factors of B&Bs in Liangshan prefecture based on GIS spatial analysis and spatial econometric model[C]//International Conference on Mechatronics and Intelligent Control (ICMIC 2024). SPIE, 2025, 13447: 1300-1320.
 
